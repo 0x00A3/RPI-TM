@@ -1,5 +1,5 @@
 # RPI-TM
-This is a simple script to see the CPU GPU temperature and the Volt usage
+This is a simple script to see the CPU GPU temperature and the Volt usage of an RPI
 
 FIRST PROJECT IN BASH
 
